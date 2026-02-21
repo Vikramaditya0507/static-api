@@ -6,21 +6,3 @@ updates:
       interval: "weekly"
     commit-message:
       prefix: "deps"
-```
-Commit it.
-
----
-
-**3. Edit `README.md`**
-
-Click on `README.md` in your repo → click the ✏️ pencil edit icon → add this line anywhere:
-```
-24f2008173@ds.study.iitm.ac.in
-```
-Commit it.
-
----
-
-**4. Submit this URL:**
-```
-https://github.com/Vikramaditya0507/static-api
