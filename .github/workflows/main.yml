@@ -1,0 +1,25 @@
+name: Email Action
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 24f2008173@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
+```
+
+**5. Click "Commit changes"** — this will automatically trigger the action!
+
+**6. Go to the Actions tab** to confirm it ran successfully ✅
+
+---
+
+**Your repo URL to submit:**
+```
+https://github.com/Vikramaditya0507/static-api
